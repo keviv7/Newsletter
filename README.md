@@ -1,5 +1,13 @@
 # Newsletter
 
+A basic subscription form that takes user email and adds it to a database. The backend provides API's to record the email and also the functionality to list all subscriptions.
+
+* Frontend:
+React with Tailwind CSS.
+
+* Backend:
+Django with sqlite database.
+
 ## Dependencies:
 
 * python>=3.4
